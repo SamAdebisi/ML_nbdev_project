@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ML_nbdev_project"
+  site-url: "https://SamAdebisi.github.io/ML_nbdev_project"
+  description: "nbdev test project"
+  repo-branch: main
+  repo-url: "https://github.com/SamAdebisi/ML_nbdev_project"
